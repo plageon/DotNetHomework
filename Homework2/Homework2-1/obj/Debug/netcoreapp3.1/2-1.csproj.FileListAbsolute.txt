@@ -1,0 +1,14 @@
+D:\dotnet\homework\Homework2\Homework2-1\bin\Debug\netcoreapp3.1\2-1.exe
+D:\dotnet\homework\Homework2\Homework2-1\bin\Debug\netcoreapp3.1\2-1.deps.json
+D:\dotnet\homework\Homework2\Homework2-1\bin\Debug\netcoreapp3.1\2-1.runtimeconfig.json
+D:\dotnet\homework\Homework2\Homework2-1\bin\Debug\netcoreapp3.1\2-1.runtimeconfig.dev.json
+D:\dotnet\homework\Homework2\Homework2-1\bin\Debug\netcoreapp3.1\2-1.dll
+D:\dotnet\homework\Homework2\Homework2-1\bin\Debug\netcoreapp3.1\2-1.pdb
+D:\dotnet\homework\Homework2\Homework2-1\obj\Debug\netcoreapp3.1\2-1.csproj.AssemblyReference.cache
+D:\dotnet\homework\Homework2\Homework2-1\obj\Debug\netcoreapp3.1\2-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\homework\Homework2\Homework2-1\obj\Debug\netcoreapp3.1\2-1.AssemblyInfoInputs.cache
+D:\dotnet\homework\Homework2\Homework2-1\obj\Debug\netcoreapp3.1\2-1.AssemblyInfo.cs
+D:\dotnet\homework\Homework2\Homework2-1\obj\Debug\netcoreapp3.1\2-1.csproj.CoreCompileInputs.cache
+D:\dotnet\homework\Homework2\Homework2-1\obj\Debug\netcoreapp3.1\2-1.dll
+D:\dotnet\homework\Homework2\Homework2-1\obj\Debug\netcoreapp3.1\2-1.pdb
+D:\dotnet\homework\Homework2\Homework2-1\obj\Debug\netcoreapp3.1\2-1.genruntimeconfig.cache
